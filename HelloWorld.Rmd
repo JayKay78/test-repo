@@ -1,8 +1,1 @@
----
-title: "HelloWorld"
-author: "JayKay78"
-date: "Thursday, April 30, 2015"
-output: html_document
----
-
 ## This is a markup file
